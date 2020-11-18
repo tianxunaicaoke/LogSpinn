@@ -1,0 +1,4 @@
+rootProject.name = 'LogSpinn'
+include 'org.LogSpinn.annotation'
+include 'annotation'
+
